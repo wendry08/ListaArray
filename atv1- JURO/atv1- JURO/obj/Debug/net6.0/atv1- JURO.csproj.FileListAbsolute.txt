@@ -1,0 +1,15 @@
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\atv1- JURO.csproj.AssemblyReference.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\atv1- JURO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\atv1- JURO.AssemblyInfoInputs.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\atv1- JURO.AssemblyInfo.cs
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\atv1- JURO.csproj.CoreCompileInputs.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\bin\Debug\net6.0\atv1- JURO.exe
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\bin\Debug\net6.0\atv1- JURO.deps.json
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\bin\Debug\net6.0\atv1- JURO.runtimeconfig.json
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\bin\Debug\net6.0\atv1- JURO.dll
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\bin\Debug\net6.0\atv1- JURO.pdb
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\atv1- JURO.dll
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\refint\atv1- JURO.dll
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\atv1- JURO.pdb
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\atv1- JURO.genruntimeconfig.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\atv1- JURO\atv1- JURO\obj\Debug\net6.0\ref\atv1- JURO.dll

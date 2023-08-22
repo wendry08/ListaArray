@@ -1,0 +1,15 @@
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\bin\Debug\net6.0\Aula 9 ex2 POO.exe
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\bin\Debug\net6.0\Aula 9 ex2 POO.deps.json
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\bin\Debug\net6.0\Aula 9 ex2 POO.runtimeconfig.json
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\bin\Debug\net6.0\Aula 9 ex2 POO.dll
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\bin\Debug\net6.0\Aula 9 ex2 POO.pdb
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\Aula 9 ex2 POO.csproj.AssemblyReference.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\Aula 9 ex2 POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\Aula 9 ex2 POO.AssemblyInfoInputs.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\Aula 9 ex2 POO.AssemblyInfo.cs
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\Aula 9 ex2 POO.csproj.CoreCompileInputs.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\Aula 9 ex2 POO.dll
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\refint\Aula 9 ex2 POO.dll
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\Aula 9 ex2 POO.pdb
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\Aula 9 ex2 POO.genruntimeconfig.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\Aula 9 ex2 POO\Aula 9 ex2 POO\obj\Debug\net6.0\ref\Aula 9 ex2 POO.dll

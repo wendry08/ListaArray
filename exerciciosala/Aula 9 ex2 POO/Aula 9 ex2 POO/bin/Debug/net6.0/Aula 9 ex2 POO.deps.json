@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula 9 ex2 POO/1.0.0": {
+        "runtime": {
+          "Aula 9 ex2 POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 9 ex2 POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

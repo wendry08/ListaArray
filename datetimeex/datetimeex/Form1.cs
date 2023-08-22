@@ -24,6 +24,7 @@ namespace datetimeex
 
         private void bt_calcular_Click(object sender, EventArgs e)
         {
+
             //Obtem a data de nascimento selecionada pelo usuário no controle dateTimePicker1
             DateTime datanascimento = dtp_nascimento.Value;
 

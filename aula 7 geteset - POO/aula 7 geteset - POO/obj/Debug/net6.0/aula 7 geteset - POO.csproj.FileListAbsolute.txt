@@ -1,0 +1,15 @@
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\bin\Debug\net6.0\aula 7 geteset - POO.exe
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\bin\Debug\net6.0\aula 7 geteset - POO.deps.json
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\bin\Debug\net6.0\aula 7 geteset - POO.runtimeconfig.json
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\bin\Debug\net6.0\aula 7 geteset - POO.dll
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\bin\Debug\net6.0\aula 7 geteset - POO.pdb
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\aula 7 geteset - POO.csproj.AssemblyReference.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\aula 7 geteset - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\aula 7 geteset - POO.AssemblyInfoInputs.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\aula 7 geteset - POO.AssemblyInfo.cs
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\aula 7 geteset - POO.csproj.CoreCompileInputs.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\aula 7 geteset - POO.dll
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\refint\aula 7 geteset - POO.dll
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\aula 7 geteset - POO.pdb
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\aula 7 geteset - POO.genruntimeconfig.cache
+C:\Users\2022102020033\Desktop\lp\aula 2 - POO\aula 7 geteset - POO\aula 7 geteset - POO\obj\Debug\net6.0\ref\aula 7 geteset - POO.dll
